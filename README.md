@@ -14,3 +14,4 @@ This code is written in Python(Python3)
 - You can adjust the colors of the cloak by changing the H value of lower & upper red limits.In this code we have taken red coloured cloak so the value is from 10 - 170.
 - First show the webcam towards the background as it is the mask1 of the code and then show the cloak as it is the mask2 of the code.
 
+Hope You Like it...Thanks..!
